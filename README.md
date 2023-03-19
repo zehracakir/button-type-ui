@@ -4,6 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/button-type-ui.svg)](https://www.npmjs.com/package/button-type-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+[NpmJs Project Link](https://www.npmjs.com/package/button-type-ui)
 ## Install
 
 ```bash
